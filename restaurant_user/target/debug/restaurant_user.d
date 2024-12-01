@@ -1,0 +1,1 @@
+C:\Users\marti\OneDrive\Documentos\faculdade\semestre_8\Reuso_de_Software\restaurant_user\target\debug\restaurant_user.exe: C:\Users\marti\OneDrive\Documentos\faculdade\semestre_8\Reuso_de_Software\restaurant_user\src\main.rs

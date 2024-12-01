@@ -1,0 +1,10 @@
+C:\Users\marti\OneDrive\Documentos\faculdade\semestre_8\Reuso_de_Software\restaurant_user\target\debug\deps\libanstyle_wincon-d75ea5daf01c433b.rmeta: C:\Users\marti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.6\src/lib.rs C:\Users\marti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.6\src\ansi.rs C:\Users\marti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.6\src\stream.rs C:\Users\marti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.6\src\windows.rs
+
+C:\Users\marti\OneDrive\Documentos\faculdade\semestre_8\Reuso_de_Software\restaurant_user\target\debug\deps\libanstyle_wincon-d75ea5daf01c433b.rlib: C:\Users\marti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.6\src/lib.rs C:\Users\marti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.6\src\ansi.rs C:\Users\marti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.6\src\stream.rs C:\Users\marti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.6\src\windows.rs
+
+C:\Users\marti\OneDrive\Documentos\faculdade\semestre_8\Reuso_de_Software\restaurant_user\target\debug\deps\anstyle_wincon-d75ea5daf01c433b.d: C:\Users\marti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.6\src/lib.rs C:\Users\marti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.6\src\ansi.rs C:\Users\marti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.6\src\stream.rs C:\Users\marti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.6\src\windows.rs
+
+C:\Users\marti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.6\src/lib.rs:
+C:\Users\marti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.6\src\ansi.rs:
+C:\Users\marti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.6\src\stream.rs:
+C:\Users\marti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.6\src\windows.rs:

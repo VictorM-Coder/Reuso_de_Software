@@ -93,7 +93,7 @@ checksum = "7943c866cc5cd64cbc25b2e01621d07fa8eb2a1a23160ee81ce38704e97b8ecf"
 [[package]]
 name = "restaurant"
 version = "0.1.0"
-source = "git+https://github.com/VictorM-Coder/Reuso_de_Software/#b05939404ef0cc66e08ea34d287bc5ee9a13151e"
+source = "git+https://github.com/VictorM-Coder/Reuso_de_Software/#91ecae7bfcde10d261824f9b365141f9a1266801"
 
 [[package]]
 name = "restaurant_user"
