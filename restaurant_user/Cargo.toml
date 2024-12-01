@@ -1,0 +1,8 @@
+[package]
+name = "restaurant_user"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clap = "4.5.21" # from crates.io
+restaurant = { git = "https://github.com/VictorM-Coder/Reuso_de_Software/", subdir = "restaurant" } # from online repo
