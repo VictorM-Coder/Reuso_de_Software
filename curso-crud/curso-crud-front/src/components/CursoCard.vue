@@ -1,29 +1,18 @@
 <script setup lang="ts">
 
-defineProps({
-  id: {
-    required: true,
-    type: String,
-  },
-  url: {
-    required: true,
-    type: String,
-  },
-  nome: {
-    required: true,
-    type: String,
-  },
-  descricao: {
-    required: true,
-    type: String,
+import type {Curso} from "../types/Curso.ts";
+import {cursoService} from "../services/CursoService.ts";
+
+const props = defineProps({
+  curso: {
+    type: Object as ()=> Curso,
+    required: true
   }
 })
 
-function editCurso(event: Event) {
-  event.preventDefault()
-  event.stopPropagation()
-  window.alert("edit")
-}
+const emit = defineEmits([
+    'deleted'
+])
 
 function deleteCurso(event: Event) {
   event.preventDefault()
@@ -31,21 +20,27 @@ function deleteCurso(event: Event) {
   const response = window.confirm("O Curso será apagado para sempre")
 
   if (response) {
-    window.alert("apagado")
+    cursoService.deleteById(props.curso.id!)
+        .then(() => {
+          window.alert('Curso apagado com sucesso!')
+          emit('deleted')
+        }).catch(response => {
+          window.alert('Falha ao apagar o curso' + response)
+    })
   }
 }
 </script>
 
 <template>
-  <a :href="url" target="_blank">
+  <a :href="curso.url" target="_blank">
     <div class="p-4 bg-white rounded-md h-full">
       <div class="flex justify-between items-start">
         <h2 class="text-xl text-bold me-4 truncate-lines">
-          {{ nome }}
+          {{ curso.nome }}
         </h2>
 
         <span class="min-w-fit">
-          <router-link :to="`/curso/${id}`">
+          <router-link :to="`/curso/${curso.id}`">
             <button>
               <span class="material-symbols-outlined me-2">
                 edit
@@ -61,7 +56,7 @@ function deleteCurso(event: Event) {
       </span>
       </div>
       <p class="mt-2 truncate-lines">
-        {{ descricao }}
+        {{ curso.descricao }}
       </p>
     </div>
   </a>
