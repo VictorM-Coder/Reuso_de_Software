@@ -22,7 +22,7 @@ Antes de rodar o back-end, certifique-se de ter instalado:
 #### 📌 **Passos para Rodar o Back-end**
 1. **Clone o repositório e vá para a pasta do proeto**:
    ```sh
-   git clone [https://github.com/seu-repositorio.git](https://github.com/VictorM-Coder/Reuso_de_Software)
+   git clone https://github.com/VictorM-Coder/Reuso_de_Software
    cd curso-crud
    ```
 2. **Acesse o diretório do back-end**:
