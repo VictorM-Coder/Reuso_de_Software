@@ -96,7 +96,7 @@ Cliente{nome='Maria Clara', email='maria.clara@example.com'}
 - Windows 11 (não testado em outros SOs)
 
 ## Artefatos
-[.jar](target/java_framework-1.0-SNAPSHOT-jar-with-dependencies.jar)
-[PDF com exemplo](execucao.pdf)
+- [.jar](target/java_framework-1.0-SNAPSHOT-jar-with-dependencies.jar)
+- [PDF com exemplo](execucao.pdf)
 
 
