@@ -1,4 +1,4 @@
-target/
+target/saves
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
