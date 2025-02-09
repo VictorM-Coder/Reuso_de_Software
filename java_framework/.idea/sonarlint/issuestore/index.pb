@@ -1,0 +1,21 @@
+
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+S
+#src/main/java/org/example/Main.java,0\b\0ba1b9c7a4878802f938e331cc2d8a042087ec6b
+j
+:src/main/java/org/example/repositories/CrudRepository.java,a\1\a179d438b0c9226ca04a402b2077d9486a0a7559
+n
+>src/main/java/org/example/repositories/InMemoryRepository.java,b\1\b18f20f0c5617760596c049e62b26dc9e98a6c88
+l
+<src/main/java/org/example/repositories/InFileRepository.java,9\2\921a1012191ed7fb09e671b7154da258bcff15be
+_
+/src/main/java/org/example/entities/Produto.java,b\8\b8a4bf769abb8aae249085ca2bbc634d55fcb54d
+_
+/src/main/java/org/example/entities/Cliente.java,1\a\1a65f57a0db97558db145e7da2b1aab7a170a267
+9
+	readme.mb,f\f\ff35a90bee9803f672681da05a9a61eb4c1e0817
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+B
+java_framework.iml,a\8\a8071e5ddf9d189f30ea01e8ef25c330aec021f8
