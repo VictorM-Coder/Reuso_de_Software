@@ -97,6 +97,6 @@ Cliente{nome='Maria Clara', email='maria.clara@example.com'}
 
 ## Artefatos
 - [.jar](target/java_framework-1.0-SNAPSHOT-jar-with-dependencies.jar)
-- [PDF com exemplo](execucao.pdf)
+- [PDF com resultado da execução](execucao.pdf)
 
 
